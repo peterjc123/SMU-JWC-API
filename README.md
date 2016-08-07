@@ -1,12 +1,12 @@
 
 # SMU-JWC-API
-SMU-JWC-API is short for the simplified API for accessing SMU-JWC. You can not only log into the SMU-JWC , but you can also query how you perform in your college years when you study in SMU. It used the .NET Core, which means the code can run on major OS, such as Windows 7 or up, Ubuntu 14.04 or up and OSX 10.10 or up.
+SMU-JWC-API is short for the simplified API for accessing SMU-JWC. You can not only log into the SMU-JWC , but you can also query how you perform in your college years when you study in SMU. It used the .NET Core, which means the code can run on major OS, such as Windows 7 or up, Ubuntu 14.04 or up and OS X 10.10 or up.
 
 # Release
-You can also download the latest version for Window, Ubuntu and OSX via [this link](https://github.com/peterjc123/SMU-JWC-API/releases).
+You can also download the latest version for Window, Ubuntu and OS X via [this link](https://github.com/peterjc123/SMU-JWC-API/releases).
 
 # Build
-To build this project, you must have the Visual Studio 2015 and the .Net Core SDK to be installed.
+To build this project, you must have the Visual Studio 2015 (only on Windows) or Visual Studio Code and the .Net Core SDK to be installed.
 
 You could just type the command below to make the project work:
 
@@ -57,3 +57,4 @@ foreach (var item in list)
 }
 ```
 
+For more usage, please go to the [project wiki](https://github.com/peterjc123/SMU-JWC-API/wiki) for more information.

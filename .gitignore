@@ -243,3 +243,9 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/Documentation1
+/ScoreQueryLib-Native
+/src/UnmodifiedModels
+/src/ScoreQueryLib
+/global.json
+/ScoreQuery-Console.sln
